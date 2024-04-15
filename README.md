@@ -1,5 +1,7 @@
 # HoloNEX Token
 
+Token contract: [0x08fd9b7da9Cbe84e23749bfA5c58D89460D612C6](https://polygonscan.com/token/0x08fd9b7da9Cbe84e23749bfA5c58D89460D612C6)
+
 ## Tools
 
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
